@@ -20,7 +20,7 @@ pod 'DQPlistManage'
 4,改        
     直接将新的值写入指定的Plist文件,方法中会替换旧值.        
 5,查         
-    NSDictionary*dic=[[DQPlistManage sharedInstance]readPlistName:@"你的plist文件的名称"];
+    NSDictionary \*dic=[[DQPlistManage sharedInstance]readPlistName:@"你的plist文件的名称"];
 ####欢迎各位大神指点,
     
     
